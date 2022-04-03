@@ -1,0 +1,58 @@
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.csproj.AssemblyReference.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.AssemblyInfoInputs.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.AssemblyInfo.cs
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.csproj.CoreCompileInputs.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.RazorAssemblyInfo.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.RazorAssemblyInfo.cs
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\appsettings.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\package.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.staticwebassets.runtime.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.exe
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.deps.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.runtimeconfig.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\ref\CRM Lite.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\CRM Lite.pdb
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\scopedcss\bundle\CRM Lite.styles.css
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\scopedcss\projectbundle\CRM Lite.bundle.scp.css
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\ref\CRM Lite.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.pdb
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.genruntimeconfig.cache
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Humanizer.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Npgsql.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\obj\Debug\net6.0\CRM Lite.csproj.CopyComplete
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.ClusterClient.Core.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.ClusterClient.Transport.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Context.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.Abstractions.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.Console.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.Context.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.File.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.Formatting.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\Vostok.Logging.Microsoft.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\EPPlus.Core.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Users\fathe\Documents\GitHub\CRM Lite\CRM Lite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
